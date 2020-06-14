@@ -38,7 +38,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram: https://www.instagram.com/miuriine/
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![girl](https://github.com/estela-granados/estela-granados.github.io/blob/master/darkest%20heaven%20logo.png)
 
 # 2. Memoria del proyecto 
 

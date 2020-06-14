@@ -117,7 +117,7 @@ Sin embargo he tenido muchísimos problemas de exportación, desde archivos que 
 
 # 4. Conclusiones 
 
-No he podido añadir el otro final que estaba planeado para este breve prólogo. En un futuro me gustaría, además de añadirlo, ir más allá de la demo (contar más sobre la historia) y llevarlo a otros programas y a otros formatos (probar con Unity, mejorar la interfaz y adaptarla para teléfono móvil).
+No he podido añadir el otro final que estaba planeado para este prólogo. En un futuro me gustaría, además de añadirlo, ir más allá de la demo (contar más sobre la historia) y llevarlo a otros programas y a otros formatos (probar con Unity, mejorar la interfaz y adaptarla para teléfono móvil).
 Tampoco he sido capaz de explotar demasiado el potencial de Hippani, ya que desde el principio he tenido bastantes problemas para acostumbrarme a trabajar con él y corregir los múltiples errores que han aparecido y que todavía perduran. Por lo tanto tampoco he podido pulir demasiado lo que ha resultado, pero de forma general me ha gustado mucho el resultado, es muy emocionante ver el resultado que ha dado a pesar de los problemas y me ha dado motivación después de todo para seguir en un futuro probando formatos como este para contar esta historia.
 
 

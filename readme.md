@@ -105,11 +105,14 @@ Este  proyecto es interesante porque quería llevar a cabo junto a mi amiga un f
 
 Bastantes problemas en el inicio del proyecto con la adaptación a la interfaz del programa. Principalmente lo más costoso ha sido la parte de código complejo (escena del candado), ya que tarde mucho en comprenderlo y poder hacerlo bien. Por el resto una vez que te acostumbrabas a como distribuir los elementos en la línea de tiempo y a los comandos (escribirlos de memoria) para que fuese más fluido el resto fue paciencia y muchísimo trabajo.
 
+Sin embargo he tenido muchísimos problemas de exportación, desde archivos que al abrir el html no se encontraban a errores de funcionamiento de algunos botones, códigos, etc que aún sigo sin solventar. También muchos contratiempos respecto a la exportación a Github, también archivos que no se enlazan bien.
+
 
 
 # 4. Conclusiones 
 
-No he podido añadir el otro final que estaba planeado para esta breve historia. En un futuro me gustaría, además de añadirlo, ir más allá de la demo (contar más sobre la historia) y llevarlo a otros programas y a otros formatos (probar con Unity, mejorar la interfaz y adaptarla para teléfono móvil)
+No he podido añadir el otro final que estaba planeado para este breve prólogo. En un futuro me gustaría, además de añadirlo, ir más allá de la demo (contar más sobre la historia) y llevarlo a otros programas y a otros formatos (probar con Unity, mejorar la interfaz y adaptarla para teléfono móvil).
+Tampoco he sido capaz de explotar demasiado el potencial de Hippani, ya que desde el principio he tenido bastantes problemas para acostumbrarme a trabajar con él y corregir los múltiples errores que han aparecido y que todavía perduran. Por lo tanto tampoco he podido pulir demasiado lo que ha resultado, pero de forma general me ha gustado mucho el resultado, es muy emocionante ver el resultado que ha dado a pesar de los problemas y me ha dado motivación después de todo para seguir en un futuro probando formatos como este para contar esta historia.
 
 
 
@@ -118,10 +121,8 @@ No he podido añadir el otro final que estaba planeado para esta breve historia.
 
 
 # 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+La estética y la interfaz de este juego está totalmente inspirada en juegos como Mystic Messenger, Dream Daddy: A Dad Dating Simulator, Doki Doki Literature Club, que desarrollan las distintas tramas utilizando texto y diálogos y pequeñas animaciones, ilustraciones, etc. Así como también me inspiraron para dibujar la forma en la que aparecerían los personajes (poses estándar para mostrarlos con los diálogos, expresiones...). 
+Respecto al diseño del menú está mucho más inspirado por juegos Indie Horror RPG, en los que se suele poner el logo del juego junto a todas las opciones del menú, de una manera muy simple.
 
 **Recursos y materiales audiovisuales:**
 

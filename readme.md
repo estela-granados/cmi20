@@ -146,7 +146,7 @@ Tampoco he sido capaz de explotar demasiado el potencial de Hippani, ya que desd
 - Sony Vegas 
 
 
-https://github.com/estela-granados/estela-granados.github.io/blob/master/copyright.png
+![girl](https://github.com/estela-granados/estela-granados.github.io/blob/master/copyright.png)
 
 https://creativecommons.org/licenses/?lang=es
 

@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Darkest Heaven
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,25 +8,24 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Darkest Heaven
 
-**Web:**   (url github.io)
+**Web:**   estela-granados.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Estela Granados Fernández
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
-
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Resumen** : Este proyecto se trata de una pequeña demo basada en la historia creada por mi amiga Astrid y yo, que narra la historia de Naire, una chica que descubre seguir consciente después de la muerte, y despertará topándose con cambios muy extraños respecto a todo lo que conocía.
+**Estilo/género:**  Novela visual
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px, no reescalable.
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome y Firefox (desde pc)
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 8,15MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -34,9 +33,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github: estela-granados
+- Twitter: miuriine
+- Instagram: miuriine
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -45,9 +44,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
+A medida que se vaya narrando la historia el jugador será capaz de ir avanzando diálogos y escenas a su ritmo, pudiendo en algunos momentos incluso interactuar directamente con lo que esté ocurriendo, ya sea con objetos o eligiendo qué acción hacer o qué decir.
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
@@ -80,13 +78,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque quería llevar a cabo junto a mi amiga un formato en el que darle vida a una historia que empezamos a crear hace mucho tiempo, y vimos en los recursos que nos ofreció esta asignatura una oportunidad muy buena.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a cualquier persona a la que le interese sumergirse en una historia sobre misterio y fantasía.
 
 
 
@@ -96,23 +94,22 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
+- Juego: Para contar la historia he decidido poner recursos de interacción para que el jugador pueda interactuar con objetos, elegir dialogos, etc. Aunque la mayoría se basa en ir haciendo click en la barra de dialogo para ir leyendo las conversaciones de los personajes, que también van a acompañadas de una serie de animaciones muy básicas para ayudar a narrarlo todo.
+- Video: Apenas hay nada de vídeo, a excepción de un vídeo que muestra un poco de mi proceso de dibujo, y se encuentra en el menú del juego. 
+- Menús y elementos de navegación (botones): Comenzar juego, extras (dentro estarían el apartado personajes e historia, que los explica brevemente), y créditos, donde se incluye información sobre nuestras redes sociales.
 - etc.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Bastantes problemas en el inicio del proyecto con la adaptación a la interfaz del programa. Principalmente lo más costoso ha sido la parte de código complejo (escena del candado), ya que tarde mucho en comprenderlo y poder hacerlo bien. Por el resto una vez que te acostumbrabas a como distribuir los elementos en la línea de tiempo y a los comandos (escribirlos de memoria) para que fuese más fluido el resto fue paciencia y muchísimo trabajo.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+No he podido añadir el otro final que estaba planeado para esta breve historia. En un futuro me gustaría, además de añadirlo, ir más allá de la demo (contar más sobre la historia) y llevarlo a otros programas y a otros formatos (probar con Unity, mejorar la interfaz y adaptarla para teléfono móvil)
 
 
 
@@ -128,15 +125,17 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Sound bible, Freesound.org
+* Imágenes:  Creadas por mi misma.
+* Tipografía: Couriers New y una tipografía creada expresamente para el proyecto.
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
-
+- Paint Tool Sai (Creación de las imágenes)
+- Photoshop (Ajustes de resolución de las imágenes utilizadas)
+- Audacity
+- Sony Vegas 
 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)

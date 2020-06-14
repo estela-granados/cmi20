@@ -17,7 +17,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Resumen** : Esta pequeña novela visual narra la historia de Naire, una chica que descubre seguir consciente después de la muerte, y despertará topándose con cambios muy extraños respecto a todo lo que conocía en su entorno.
 **Estilo/género:**  Novela visual
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
+![girl](https://github.com/estela-granados/estela-granados.github.io/blob/master/darkest%20heaven%20logo.png)
 
 (insertar imágenes a resolucion de 100px alto)
 
@@ -36,9 +37,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github: estela-granados
 - Twitter: https://twitter.com/miuriine
 - Instagram: https://www.instagram.com/miuriine/
-
-
-![girl](https://github.com/estela-granados/estela-granados.github.io/blob/master/darkest%20heaven%20logo.png)
 
 # 2. Memoria del proyecto 
 

@@ -146,7 +146,7 @@ Tampoco he sido capaz de explotar demasiado el potencial de Hippani, ya que desd
 - Sony Vegas 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+copyright.png
 
 https://creativecommons.org/licenses/?lang=es
 

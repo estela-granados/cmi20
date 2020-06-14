@@ -54,8 +54,7 @@ El plan era que a medida que se vaya narrando la historia el jugador será capaz
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![girl](https://github.com/estela-granados/estela-granados.github.io/blob/master/STORYBOARD%20MENU.jpg)
 
 
 
